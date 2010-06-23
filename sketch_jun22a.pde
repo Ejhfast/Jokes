@@ -17,7 +17,7 @@ int activejokes = 0;
 void setup() 
 {
   frameRate(5);
-  size(900, 900);
+  size(750, 750);
   textFont(myfont);
   noStroke();
   smooth();
